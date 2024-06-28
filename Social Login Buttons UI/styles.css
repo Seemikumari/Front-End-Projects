@@ -1,0 +1,78 @@
+.conatiner{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    padding-top:50px;
+    gap: 20px;
+    background-color: rgb(209, 229, 242);
+    height:100vh;
+}
+.microsoft{
+    display:flex;
+    gap:10px;
+    background-color: black;
+    height:40px;
+    width:220px;
+    border-radius:2px;
+    align-items:center;
+    
+    
+}
+.microsoft img{
+    height:20px;
+    padding-left:20px;
+
+}
+.microsoft p{
+    color:white;
+    height:20px;
+    
+}
+.amazon{
+    
+    display:flex;
+    background-color: rgb(244, 206, 109);
+    height:40px;
+    width:220px;
+    border-radius:3px;
+    gap:10px;
+    align-items:center;
+    
+}
+.amazon img{
+    height:20px;
+    padding-left:20px;
+}
+
+.slack{
+    display:flex;
+    background-color: white;
+    height:40px;
+    width:220px;
+    border-radius:2px;
+    gap:10px;
+    align-items:center;
+    
+}
+.slack img{
+    padding-left:20px;
+    height:20px;
+}
+.facebook{
+    display:flex;
+    background-color: rgb(74, 130, 242);
+    height:40px;
+    width:220px;
+    border-radius:5px;
+    gap:10px;
+    align-items:center;
+
+}
+.facebook img{
+    padding-left:20px;
+    height:20px;
+
+}
+.facebook p{
+    color:white;
+}
